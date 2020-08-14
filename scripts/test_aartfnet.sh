@@ -1,0 +1,1 @@
+python3 test.py --dataroot datasets/pothole600 --dataset pothole --name pothole --model aartfnet --epoch aartfnet --useSize 416

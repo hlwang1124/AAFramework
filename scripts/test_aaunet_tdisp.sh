@@ -1,0 +1,1 @@
+python3 test.py --dataroot datasets/pothole600 --dataset pothole --name pothole --model aaunet --input tdisp --epoch aaunet_tdisp
