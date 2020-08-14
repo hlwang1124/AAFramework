@@ -2,7 +2,7 @@
 
 
 ## Introduction
-This is the official pytorch implementation of **We Learn Better Road Pothole Detection: from Attention Aggregation to Adversarial Domain Adaptation**, accepted by [ECCV Workshops 2020](https://iplab.dmi.unict.it/acvr2020/). This is our [project page](https://sites.google.com/view/pothole-600).
+This is the official pytorch implementation of **We Learn Better Road Pothole Detection: from Attention Aggregation to Adversarial Domain Adaptation**, accepted by [ECCV Workshops 2020](https://iplab.dmi.unict.it/acvr2020/) for publication. This is our [project page](https://sites.google.com/view/pothole-600).
 
 In this repo, we provide the training and testing setup on our [Pothole-600 Dataset](https://drive.google.com/file/d/1BdYEhhLAvYNcv8B0wT8otKNKzYVWzhrw/view?usp=sharing). We test our code in Python 3.7, CUDA 10.0, cuDNN 7 and PyTorch 1.1. We provide `Dockerfile` to build the docker image we use.
 
@@ -53,7 +53,7 @@ for training AA-UNet with input RGB, AA-UNet with input T-Disp and AA-RTFNet wit
 ## Citation
 If you use this code for your research, please cite our paper.
 ```
-@inproceedings{fan2020we,
+@inproceedings{fan2020eccvw,
   title={We Learn Better Road Pothole Detection: from Attention Aggregation to Adversarial Domain Adaptation},
   author={Fan, Rui and Wang, Hengli and Bocus J., Mohammud and Liu, Ming},
   booktitle={Proceedings of the European Conference on Computer Vision (ECCV) Workshops},
