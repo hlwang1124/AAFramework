@@ -4,7 +4,7 @@
 ## Introduction
 This is the official pytorch implementation of **We Learn Better Road Pothole Detection: from Attention Aggregation to Adversarial Domain Adaptation**, accepted by [ECCV Workshops 2020](https://iplab.dmi.unict.it/acvr2020/) for publication. This is our [project page](https://sites.google.com/view/pothole-600).
 
-In this repo, we provide the training and testing setup on our [Pothole-600 Dataset](https://drive.google.com/file/d/1BdYEhhLAvYNcv8B0wT8otKNKzYVWzhrw/view?usp=sharing). We test our code in Python 3.7, CUDA 10.0, cuDNN 7 and PyTorch 1.1. We provide `Dockerfile` to build the docker image we use.
+In this repo, we provide the training and testing setup on our [Pothole-600 Dataset](https://sites.google.com/view/pothole-600/dataset?authuser=0). We test our code in Python 3.7, CUDA 10.0, cuDNN 7 and PyTorch 1.1. We provide `Dockerfile` to build the docker image we use.
 
 <p align="center">
 <img src="doc/AAFramework.png" width="100%"/>
@@ -22,7 +22,7 @@ AAFramework
  |-- models
  ...
 ```
-The Pothole-600 Dataset `pothole600` can be downloaded from [here](https://drive.google.com/file/d/1BdYEhhLAvYNcv8B0wT8otKNKzYVWzhrw/view?usp=sharing), and the pretrained weights `checkpoints` for our AA-UNet and AA-RTFNet can be downloaded from [here](https://drive.google.com/file/d/1LFB1jh9EiyPtsAMxLcqCHRI2FM12HAH1/view?usp=sharing).
+The Pothole-600 Dataset `pothole600` can be downloaded from [here](https://sites.google.com/view/pothole-600/dataset?authuser=0), and the pretrained weights `checkpoints` for our AA-UNet and AA-RTFNet can be downloaded from [here](https://drive.google.com/file/d/1LFB1jh9EiyPtsAMxLcqCHRI2FM12HAH1/view?usp=sharing).
 
 
 ## Usage
