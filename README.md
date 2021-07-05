@@ -53,11 +53,13 @@ for training AA-UNet with input RGB, AA-UNet with input T-Disp and AA-RTFNet wit
 ## Citation
 If you use this code for your research, please cite our paper.
 ```
-@inproceedings{fan2020eccvw,
-  title={We Learn Better Road Pothole Detection: from Attention Aggregation to Adversarial Domain Adaptation},
-  author={Fan, Rui and Wang, Hengli and Bocus J., Mohammud and Liu, Ming},
-  booktitle={Proceedings of the European Conference on Computer Vision (ECCV) Workshops},
-  year={2020}
+@inproceedings{fan2020we,
+  title        = {We learn better road pothole detection: From attention aggregation to adversarial domain adaptation},
+  author       = {Fan, Rui and Wang, Hengli and Bocus, Mohammud J and Liu, Ming},
+  booktitle    = {European Conference on Computer Vision},
+  pages        = {285--300},
+  year         = {2020},
+  organization = {Springer}
 }
 ```
 
