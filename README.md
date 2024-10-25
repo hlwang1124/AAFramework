@@ -22,7 +22,7 @@ AAFramework
  |-- models
  ...
 ```
-The Pothole-600 Dataset `pothole600` can be downloaded from [here](https://sites.google.com/view/pothole-600/dataset?authuser=0), and the pretrained weights `checkpoints` for our AA-UNet and AA-RTFNet can be downloaded from [here](https://drive.google.com/file/d/1yzJf1bFZxvS8bo35MYscRnc807_h0Kjg/view?usp=sharing).
+The Pothole-600 Dataset `pothole600` can be downloaded from [here](https://sites.google.com/view/pothole-600/dataset?authuser=0), and the pretrained weights `checkpoints` for our AA-UNet and AA-RTFNet can be downloaded from [here](https://drive.google.com/file/d/1CAvsY-g5d3rAsJPtZhrwg_T86ig7Y5m-/view?usp=sharing).
 
 
 ## Usage
